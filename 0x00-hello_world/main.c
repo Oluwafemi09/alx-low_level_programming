@@ -15,7 +15,5 @@
 int main(void)
 
 {
-  char CFILE(main.c)
-  
   return (0);
 }
